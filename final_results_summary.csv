@@ -1,0 +1,8 @@
+method,AUROC,AUPRC
+avg_logprob,0.683,0.895
+min_logprob,0.694,0.903
+std_logprob,0.715,0.908
+avg_entropy,0.691,0.897
+max_entropy,0.668,0.888
+random,0.519,0.813
+combined_lr,0.723,0.913
